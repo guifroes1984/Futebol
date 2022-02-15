@@ -1,4 +1,6 @@
 # Futebol
 Times de Futebol
 
-Athletico Paranaense, Coritiba e Paraná
+São Paulo, Palmeiras, Santos e Corinthians
+
+Flamengo, Fluminense, Vasco e Botafogo
